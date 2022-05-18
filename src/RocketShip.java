@@ -1,11 +1,10 @@
 // Program RocketShip
 // Purpose:
 //		The purpose of this application is to 
-//		paint a rocketship scene as specified 
-//		in the assignment, using Rectangle
+//		paint a rocketship scene 
+//		using Rectangle
 //		and Polygons (for triangles).
 // Programmer: Reece Landry
-// INFO 2313 A12
 //
 
 import javafx.animation.KeyFrame;
